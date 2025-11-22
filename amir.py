@@ -1,2 +1,2 @@
-a=int(input('enter : '))
-print(a)
+print('hello')
+print('how are you?')
